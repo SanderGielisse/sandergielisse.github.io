@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my academic web page! My name is [Your Name], and I am a 25-year-old computer science student from the Netherlands. Currently, I am pursuing my studies in the field of artificial intelligence, specifically focusing on computer vision at the Pattern Recognition and Bioinformatics lab. As a native Dutch speaker, I am fluent in written and spoken Dutch, as well as English.
+Hello and welcome to my academic web page! My name is Sander (A.S.) Gielisse, and I am a computer science student from the Netherlands. Currently, I am pursuing my studies in the field of artificial intelligence, specifically focusing on computer vision at the Pattern Recognition and Bioinformatics lab. As a native Dutch speaker, I am fluent in written and spoken Dutch, as well as English.
 
 I am thrilled to share that I will be embarking on a new adventure in early 2023, as I begin my PhD program at TU Delft. My research will center around implicit image representations, a fascinating area that I believe holds immense potential for the future of AI.
 
