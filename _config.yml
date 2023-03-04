@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sander Gielisse"
-  avatar           : "files/profile_pic.jpeg"
+  avatar           : "profile_pic.jpeg"
   bio              : "Computer Vision Enthausiast"
   location         : "Delft, The Netherlands"
   employer         : "Delft University of Technology"
