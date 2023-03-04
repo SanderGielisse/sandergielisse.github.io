@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Sander Gielisse / My Adventures in AI and Computer Vision Research"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Sander Gielisse - My Adventures in AI and Computer Vision Research"
+description              : &description "Explore my academic journey and research interests in the field of computer science, with a focus on artificial intelligence and computer vision"
 url                      : https://sandergielisse.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sandergielisse/sandergielisse.github.io"
