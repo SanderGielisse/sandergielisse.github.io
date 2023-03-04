@@ -4,7 +4,7 @@ collection: publications
 permalink: 'http://resolver.tudelft.nl/uuid:1e4321eb-4fc0-4e98-8e51-81b891fc8d63'
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-03-03
-venue: 'TUDelft Repository  '
+venue: 'TU Delft Repository'
 paperurl: 'http://sandergielisse.github.io/files/msc_thesis_alexander_gielisse.pdf'
 citation: 'A.S. Gielisse. (2023). Master Thesis. TU Delft Repository.'
 ---
