@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Sander Gielisse - My Adventures in AI and Computer Vision Research"
 description              : &description "Explore my academic journey and research interests in the field of computer science, with a focus on artificial intelligence and computer vision"
