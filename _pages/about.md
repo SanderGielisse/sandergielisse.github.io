@@ -12,4 +12,4 @@ Welcome to my academic web page! My name is Sander (A.S.) Gielisse, and I am a c
 
 I am thrilled to share that I will be embarking on a new adventure in early 2023, as I begin my PhD program at TU Delft. My research will center around implicit image representations, a fascinating area that I believe holds immense potential for the future of AI.
 
-Throughout my academic career, I have always been passionate about learning and exploring new concepts, technologies, and methodologies. My web page serves as a platform for me to share my work, insights, and experiences with the academic community and beyond. Thank you for visiting my page, and I hope you find it informative and engaging!
+Throughout my studies, I have always been passionate about learning and exploring new concepts, technologies, and methodologies. My web page serves as a platform for me to share my work, insights, and experiences with the academic community and beyond. Thank you for visiting my page, and I hope you find it informative and engaging!
