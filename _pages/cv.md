@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Welcome to my CV page. Here, you will find a comprehensive overview of my academic and professional achievements, as well as my skills and qualifications in the field of computer science.
+
 Education
 ======
 * BSc in Computer Science, Intelligent Data Analysis Track, Delft University of Technology, 2020
