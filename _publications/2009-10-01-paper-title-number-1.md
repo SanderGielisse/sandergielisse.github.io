@@ -1,7 +1,7 @@
 ---
 title: "Optical Flow Upsamplers Ignore Details: Neighborhood Attention Transformers for Convex Upsampling"
 collection: publications
-permalink: /publication/tcu
+permalink: 'http://resolver.tudelft.nl/uuid:1e4321eb-4fc0-4e98-8e51-81b891fc8d63'
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-03-03
 venue: 'TUDelft Repository  '
