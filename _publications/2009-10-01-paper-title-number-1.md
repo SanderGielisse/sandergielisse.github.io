@@ -1,7 +1,7 @@
 ---
 title: "Optical Flow Upsamplers Ignore Details: Neighborhood Attention Transformers for Convex Upsampling"
 collection: publications
-permalink: 'http://resolver.tudelft.nl/uuid:1e4321eb-4fc0-4e98-8e51-81b891fc8d63'
+permalink: 'files/msc_thesis_alexander_gielisse.pdf'
 date: 2023-03-03
 venue: 'TU Delft Repository'
 paperurl: 'http://sandergielisse.github.io/files/msc_thesis_alexander_gielisse.pdf'
