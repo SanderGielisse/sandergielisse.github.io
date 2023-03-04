@@ -20,7 +20,6 @@ Teaching
 ======
 As a result of pursuing an educational minor during my Bachelor's degree, I am a certified second degree high school mathematics teacher.
 
-<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
