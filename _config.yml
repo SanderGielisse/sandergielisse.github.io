@@ -8,7 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Homepage"
-title_separator          : "-"
 name                     : &name "Sander Gielisse - My Adventures in AI and Computer Vision Research"
 description              : &description "Explore my academic journey and research interests in the field of computer science, with a focus on artificial intelligence and computer vision"
 url                      : https://sandergielisse.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -175,18 +174,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+  #teaching:
+  #  output: false
+  #  permalink: /:collection/:path/
   publications:
     output: false
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: false
+  #  permalink: /:collection/:path/
+  #talks:
+  #  output: false
+  #  permalink: /:collection/:path/
 
 
 # Defaults
