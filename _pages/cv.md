@@ -13,8 +13,8 @@ Welcome to my CV page. Here, you will find a comprehensive overview of my academ
 
 Education
 ======
-* BSc in Computer Science, Intelligent Data Analysis Track, Delft University of Technology, 2020
-* MSc in Computer Science, Artifial Intelligence Track, 2023 (expected)
+* BSc in Computer Science, Delft University of Technology, Intelligent Data Analysis Track, 2020
+* MSc in Computer Science, Delft University of Technology, Artifial Intelligence Track, 2023 (expected)
 
 Teaching
 ======
