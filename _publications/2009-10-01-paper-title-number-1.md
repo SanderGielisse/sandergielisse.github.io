@@ -5,7 +5,7 @@ permalink: /publication/tcu
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-03-03
 venue: 'TUDelft Repository  '
-paperurl: 'http://academicpages.github.io/files/msc_thesis_alexander_gielisse.pdf'
+paperurl: 'http://sandergielisse.github.io/files/msc_thesis_alexander_gielisse.pdf'
 citation: 'A.S. Gielisse. (2023). Master Thesis. TU Delft Repository.'
 ---
 
@@ -16,4 +16,5 @@ We propose several ideas in an attempt to resolve current issues. First, we prop
 
 We investigate whether an increase in accuracy can be achieved while leaving the low-resolution flow prediction architecture unchanged. Due to that, our proposed ideas could theoretically be applied to almost every current state-of-the-art optical flow architecture. On the FlyingChairs + FlyingThings3D training setting we reduce the Sintel Clean training end-point-error of GMA from 1.31 to 1.18, which is a 10% decrease caused solely by changes regarding the convex upsampler.
 
+[Visit TU Delft Library Repository](http://resolver.tudelft.nl/uuid:1e4321eb-4fc0-4e98-8e51-81b891fc8d63)
 [Download paper here](http://sandergielisse.github.io/files/msc_thesis_alexander_gielisse.pdf)
